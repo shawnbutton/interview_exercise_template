@@ -10,7 +10,6 @@
 1. Clone this repo, and create a feature branch to work on.
 1. Please commit your work regularly as you go, so we can see how you work through a problem.
 1. Create a [Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) into the `master` branch from your branch when you are ready for us to review your solution.
-1. In the Merge Request, assign `bell-coding-exercise` user as the reviewer so that we're alerted.
 
 
 # Pricing Problem

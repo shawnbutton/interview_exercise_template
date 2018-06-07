@@ -58,5 +58,5 @@ The following tables give the discount rate and tax rates:
 ## Example 2:
 
     Input:  3600 items, $2.25 per item, Michigan
-    Output: $8586.00
+    Output: $7984.98
 

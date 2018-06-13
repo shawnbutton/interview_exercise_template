@@ -1,7 +1,6 @@
 # Instructions
 
 1. Please solve the following problem using `JavaScript` or `Java` (or the language of your choice).
-1. Avoid third party libraries with the exception of your test frameworks (i.e. Mocha/Chai, JUnit, etc).
 1. Treat this problem as a library. No UI or file/console input is expected or required.
 1. Add a `README.md` file that at least includes:
     - runtime versions
@@ -18,7 +17,7 @@ We have a network of vendors who re-sell our products. We wish to provide them a
 
 The app needs to give volume discounts and include sales tax. 
 
-Another system will accept input from the user, and will call this componant with 3 inputs:
+Another system will accept input from the user, and will call this component with 3 inputs:
 
 * number of items
 * price per item

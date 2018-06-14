@@ -1,4 +1,4 @@
 # Hiring Exercise
 
-Please check out Intructions.md
+Please check out Instructions.md
 

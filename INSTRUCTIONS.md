@@ -14,9 +14,9 @@
 
 # Pricing Problem
 
-We have a network of vendors who re-sell our products. We wish to provide them an application to calculate the total cost of an order. 
+We have a network of vendors who re-sell our products. We wish to provide them an application to calculate the total cost of an order.
 
-The app needs to give volume discounts and include sales tax. 
+The app needs to give volume discounts and include sales tax.
 
 Another system will accept input from the user, and will call this component with 3 inputs:
 
@@ -41,7 +41,7 @@ The following tables give the discount rate and tax rates:
 | $7,000        | 7% |
 | $10,000       | 10% |
 
-| Province | Discount Rate |
+| Province | Tax Rate |
 | ------------- |-------------:|
 | AB | 5% |
 | ON | 13% |
@@ -59,4 +59,3 @@ The following tables give the discount rate and tax rates:
 
     Input:  3600 items, $2.25 per item, Michigan
     Output: $7984.98
-

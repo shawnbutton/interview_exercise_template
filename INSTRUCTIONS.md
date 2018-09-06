@@ -1,6 +1,6 @@
 # Instructions
 
-1. Please solve the following problem using `JavaScript` (preferably) or `Java` (or the language of your choice).
+1. Please solve the following problem using `JavaScript`.
 1. Treat this problem as a library. No UI or file/console input is expected or required.
 1. Provide a full suite of unit tests.
 1. Add a `README.md` file that at least includes:

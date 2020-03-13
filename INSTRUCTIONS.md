@@ -1,6 +1,7 @@
 # Instructions
 
 1. Please solve the following problem using `JavaScript`.
+1. We are looking for clean, well factored code in order to start a conversation with you. 
 1. Treat this problem as a library. No UI or file/console input is expected or required.
 1. Provide a full suite of unit tests.
 1. Add a `README.md` file that at least includes:
